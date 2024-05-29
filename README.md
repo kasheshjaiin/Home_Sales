@@ -41,7 +41,3 @@ We compare the runtime of the queries with and without caching and analyze the i
 2. Clone this repository.
 3. Open the notebook in Jupyter Notebook or Google Colab.
 4. Run each cell to execute the code.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
